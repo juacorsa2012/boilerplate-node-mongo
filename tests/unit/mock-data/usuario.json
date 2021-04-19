@@ -1,0 +1,7 @@
+{    
+    "_id": "607959b93815c60344dbe21d",
+    "nombre": "Usuario 1",
+    "email" : "email2test.com",
+    "password": "123456789",
+    "rol": "admin"
+}
